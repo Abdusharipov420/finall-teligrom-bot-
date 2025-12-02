@@ -1,0 +1,28 @@
+{
+  "name": "finall-teligrom-bot-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdusharipov420/finall-teligrom-bot-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Abdusharipov420/finall-teligrom-bot-/issues"
+  },
+  "homepage": "https://github.com/Abdusharipov420/finall-teligrom-bot-#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
